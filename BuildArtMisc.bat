@@ -1,7 +1,7 @@
-D:
-set location=D:\UNR_SCRIPT\ART_PROJ
+C:
+set location=C:\U4L\S\ART_PROJ
 set projectname=MyArtMisc
 set projectdirname=MyArtMisc
 set configpostfix=Editor
-set sniploc=D:\UNR_SCRIPT\SNIPPETS
+set sniploc=C:\U4L\Snip
 call %sniploc%\MyBuild.bat %projectname%%configpostfix% %location%\%projectdirname%\%projectname%
